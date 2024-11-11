@@ -1,0 +1,5 @@
+This is config.
+
+In several level's scss files - need to set inital values.
+For example, in variables.scss, primary, secondary values are needed to setup.
+In header.scss, need to setup col, row layout in various sizes.
